@@ -1,4 +1,5 @@
 # CIMS_SPACustomerInformationManagementSystem
+The web application is developed using react as frontend and node.js express as backend. Bootstrap is also used as the css framework to further improve the user interface of the web application.
 
 ## Demonstration
 The following section will demonstrate the developed customer information system.
